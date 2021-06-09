@@ -1,3 +1,5 @@
 body {
+    html style="font-size: 10px;font-family: Roboto, Arial, sans-serif;" lang="ru-RU" typography typography-spacing><head><script nonce="1VRlC9mdnDid2LuLwu1IdQ">var ytcfg={d:function(){return window.yt&&yt.config_||ytcfg.data_||(ytcfg.data_={})},get:function(k,o){return k in ytcfg.d()?ytcfg.d()[k]:o},set:function(){var a=arguments;if(a.length>1)ytcfg.d()[a[0]]=a[1];else for(var k in a[0])ytcfg.d()[k]=a[0][k]}};
+window.ytcfg.set
     background-color: black;
 }
